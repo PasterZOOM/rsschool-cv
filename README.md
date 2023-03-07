@@ -1,1 +1,1 @@
-https://pasterzoom.github.io/rsschool-cv/cv
+https://pasterzoom.github.io/rsschool-cv/
