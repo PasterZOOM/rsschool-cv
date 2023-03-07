@@ -37,6 +37,7 @@ Development of crypto-marketplaces in the company [plan9](https://plan9.tech/):
 * others projects
 
 ## Education
----
+* 2022 [IT-incubator](https://it-incubator.io/) - *Front-end React developer*
+* 2011-2016 [Belarusian National Technical University](https://bntu.by/) - *Mechanical engineer*
 
 ## Languages
