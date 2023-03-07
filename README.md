@@ -1,1 +1,1 @@
-# rsschool-cv
+https://pasterzoom.github.io/rsschool-cv/cv
