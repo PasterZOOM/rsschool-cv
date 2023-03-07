@@ -41,3 +41,6 @@ Development of crypto-marketplaces in the company [plan9](https://plan9.tech/):
 * 2011-2016 [Belarusian National Technical University](https://bntu.by/) - *Mechanical engineer*
 
 ## Languages
+* Russian - Native
+* Belarusian - Native
+* English - Elementary
